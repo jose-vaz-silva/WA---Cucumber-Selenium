@@ -1,0 +1,10 @@
+.metadata
+output/
+resources/
+src/test/java/com/web/automation/test
+data/test_backup.xlsx
+.settings
+.classpath
+.project
+.loadpath
+.recommenders

@@ -1,0 +1,2 @@
+[7968:20420:0914/105814.984:ERROR:device_event_log_impl.cc(214)] [10:58:14.983] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+[7968:20420:0914/105822.109:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,68 @@
+.metadata
+.DS_Store
+bin/
+tmp/
+target/
+output/
+output\
+output\logging.log
+output\\logging.log
+src/test/java/com/everis/unilever/test
+data/test_backup.xlsx
+*.iml
+*.tmp
+*.bak
+*.swp
+*~.nib
+output-logging.log
+local.properties
+.settings/
+.classpath
+.project
+.loadpath
+.recommenders
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# CDT- autotools
+.autotools
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Scala IDE specific (Scala & Java development for Eclipse)
+.cache-main
+.scala_dependencies
+.worksheet
+
+#IntelliJ IDEA
+.idea/
+.iml
