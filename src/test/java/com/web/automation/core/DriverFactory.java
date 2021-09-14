@@ -36,8 +36,6 @@ public class DriverFactory {
 		if (runRemote) {
 			options.addArguments("--profile-directory=Default");
 			options.addArguments("--user-data-dir=/chrome-profiles-host/User Data/selenium-profile");
-		} else {
-			options.addArguments("--user-data-dir=" + CHROME_PROFILE_DIR);
 		}
 		options.addArguments("--disable-notifications");
 		options.addArguments("--disable-infobars");
